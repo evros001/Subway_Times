@@ -1,0 +1,3 @@
+Subway Times is an app designed to help you pass time on your subway commute where cell phone service and wifi is unavailable. Subway Times delivers articles using a commute time algorythm to give you jsut enough content to get through your daily commute entertained and informed. 
+
+Future features I hope to add are catagory filters and daily times emails with your content. 
